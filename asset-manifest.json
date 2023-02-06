@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adam-react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/adam-react-portfolio/static/js/main.5ad55262.js",
+    "static/js/787.40001fbe.chunk.js": "/adam-react-portfolio/static/js/787.40001fbe.chunk.js",
+    "static/media/logo.svg": "/adam-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adam-react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/adam-react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.5ad55262.js.map": "/adam-react-portfolio/static/js/main.5ad55262.js.map",
+    "787.40001fbe.chunk.js.map": "/adam-react-portfolio/static/js/787.40001fbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5ad55262.js"
+  ]
+}
