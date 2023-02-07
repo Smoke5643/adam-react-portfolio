@@ -16,9 +16,9 @@ export default function MainContainer() {
     <div>
       <Header />
       <Navigation 
-      currentPage = {currentPage}
-      handlePageChange = {handlePageChange}
-      pages = {pages}
+      currentPage={currentPage}
+      handlePageChange={handlePageChange}
+      pages={pages}
       />
       <Page />
     </div>
