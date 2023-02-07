@@ -1,12 +1,6 @@
 import React from 'react';
-import './App.css';
+import MainContainer from './components/MainContainer';
 
-function App() {
-  return (
-    <div >
-      
-    </div>
-  );
-}
+const App = () => <MainContainer />;
 
 export default App;
