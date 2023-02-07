@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/adam-react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/adam-react-portfolio/static/js/main.5ad55262.js",
-    "static/js/787.40001fbe.chunk.js": "/adam-react-portfolio/static/js/787.40001fbe.chunk.js",
-    "static/media/logo.svg": "/adam-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/adam-react-portfolio/static/css/main.a7051c18.css",
+    "main.js": "/adam-react-portfolio/static/js/main.ed14ad05.js",
+    "static/media/about_me_pic.jpg": "/adam-react-portfolio/static/media/about_me_pic.aec276d7a2a1914c2a6f.jpg",
     "index.html": "/adam-react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/adam-react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.5ad55262.js.map": "/adam-react-portfolio/static/js/main.5ad55262.js.map",
-    "787.40001fbe.chunk.js.map": "/adam-react-portfolio/static/js/787.40001fbe.chunk.js.map"
+    "main.a7051c18.css.map": "/adam-react-portfolio/static/css/main.a7051c18.css.map",
+    "main.ed14ad05.js.map": "/adam-react-portfolio/static/js/main.ed14ad05.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5ad55262.js"
+    "static/css/main.a7051c18.css",
+    "static/js/main.ed14ad05.js"
   ]
 }
