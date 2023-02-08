@@ -2,6 +2,15 @@ import React from 'react';
 
 export default function Portfolio () {
   return (
-    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi nisi eveniet praesentium mollitia neque quibusdam iusto et fuga! Quaerat fuga commodi veritatis porro consectetur quod illum ex. Corrupti, officia nihil.</div>
+    <div className='container'>
+        <div className='row  my-3 justify-content-center'>
+            <div className='col-6'>
+                <h2>My Portfolio</h2>
+                <br />
+                <br />
+                
+            </div>
+        </div>
+    </div>
   );
 }
