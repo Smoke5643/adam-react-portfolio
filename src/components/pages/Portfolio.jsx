@@ -9,7 +9,7 @@ import employeeTracker from '../../assets/employee-tracker.gif'
 export default function Portfolio() {
   return (
     <div className='container'>
-      <div className='my-3'>
+      <div className='row my-3 text-center'>
         <h2>My Portfolio</h2>
         <br />
         <br />
