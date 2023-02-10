@@ -7,12 +7,12 @@ export default function Contact() {
     const [message, setMessage] = useState('');
     const [error, setError] = useState('');
 
-    
+
     const handleChange = (e) => {
         const { target } = e;
         const inputName = target.name;
         const inputValue = target.value;
-        
+
         if (inputName === 'name') {
             setName(inputValue);
         } else if (inputName === 'email') {
@@ -47,7 +47,7 @@ export default function Contact() {
                 <div className='row justify-content-center'>
                     <div className='col-6'>
                         <div className="form-group">
-                            <label  className="col-form-label mt-4" for="inputDefault">Name:</label>
+                            <label className="col-form-label mt-4" for="inputDefault">Name:</label>
                             <input name='name' onChange={handleChange} type="text" className="form-control" placeholder="Enter your name" id="inputDefault" />
                         </div>
                         <div className="form-group">

@@ -17,7 +17,7 @@ export default function Portfolio() {
       <div className='row my-3 justify-content-center'>
         <div className='col-4 my-2 me-2 card border border-secondary'>
           <a className='m-2' href="https://quiet-river-37193.herokuapp.com/" target='_blank' rel="noreferrer">Sofa King</a>
-          <img src={sofaKing} alt="Note Taker app" />
+          <img src={sofaKing} alt="Sofa King app" />
           <div className='card-body'>
             <a href="https://github.com/kassrojas/sofa-king-cool" target='_blank' rel="noreferrer">GitHub Repository</a>
           </div>
@@ -31,28 +31,28 @@ export default function Portfolio() {
         </div>
         <div className='col-4 my-2 card border border-secondary'>
           <a className='m-2' href="https://smoke5643.github.io/weather-dashboard/" target='_blank' rel="noreferrer">Weather Dashboard</a>
-          <img src={weatherDashboard} alt="Note Taker app" />
+          <img src={weatherDashboard} alt="Weather Dashboard app" />
           <div className='card-body'>
             <a href="https://github.com/Smoke5643/weather-dashboard" target='_blank' rel="noreferrer">GitHub Repository</a>
           </div>
         </div>
         <div className='col-4 my-2 card border border-secondary'>
           <a className='m-2' href="https://drive.google.com/file/d/1TejKQjwF-qJIXWneMWBSH9KkTvxl48Gd/view" target='_blank' rel="noreferrer">Social Media API Video Walkthrough</a>
-          <img src={socialMedia} alt="Note Taker app" />
+          <img src={socialMedia} alt="Social Media API" />
           <div className='card-body'>
             <a href="https://github.com/Smoke5643/social-media-api" target='_blank' rel="noreferrer">GitHub Repository</a>
           </div>
         </div>
         <div className='col-4 my-2 card border border-secondary'>
           <a className='m-2' href="https://drive.google.com/file/d/1a0494cENN64bKb94ctxINzm8sVgSX4Tf/view" target='_blank' rel="noreferrer">E-Commerce Backend Video Walkthrough</a>
-          <img src={ecommerce} alt="Note Taker app" />
+          <img src={ecommerce} alt="E-Commerce Backend" />
           <div className='card-body'>
             <a href="https://github.com/Smoke5643/e-commerce-backend" target='_blank' rel="noreferrer">GitHub Repository</a>
           </div>
         </div>
         <div className='col-4 my-2 card border border-secondary'>
           <a className='m-2' href="https://drive.google.com/file/d/12LTUjh2h-JAjHUPF92JPyocMNon-jYIv/view" target='_blank' rel="noreferrer">Employee Tracker Video Walkthrough</a>
-          <img src={employeeTracker} alt="Note Taker app" />
+          <img src={employeeTracker} alt="Employee Tracker" />
           <div className='card-body'>
             <a href="https://github.com/Smoke5643/employee-tracker" target='_blank' rel="noreferrer">GitHub Repository</a>
           </div>

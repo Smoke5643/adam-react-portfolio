@@ -1,3 +1,7 @@
+body {
+  font-family: 'Rubik', sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -41,6 +45,7 @@ footer {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
